@@ -3,6 +3,11 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Amogh-7pai/Face-Mask-Detection-YOLOv8/blob/main/Mask_project.ipynb)
 
+> 🚨 Note:
+> This project is based on the given *Face Mask Detection with Live Alert System* task.
+> However, instead of webcam-based detection, it leverages YOLOv8, an advanced object detection model, for highly accurate detection on images.
+> The system can be extended to webcam detection in future work.
+
 This project uses **YOLOv8** for face mask detection, classifying faces into:
 - ✅ With Mask
 - ❌ Without Mask
