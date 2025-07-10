@@ -31,10 +31,10 @@ It is built for easy use in **Google Colab** and can be extended further.
 ---
 
 ## 📂 Project Structure
-/datasets/ → YOLO-ready dataset (images & labels)
-/face_mask/ → Original dataset (images & annotations)
-/runs/ → Training results and model weights
-Mask_project.ipynb → Main notebook (Colab Ready)
+/datasets/           # YOLO-ready dataset (images & labels)
+/face_mask/          # Original dataset (images & annotations)
+/runs/               # Training results and model weights
+Mask_project.ipynb   # Main notebook (Colab Ready)
 
 ---
 
