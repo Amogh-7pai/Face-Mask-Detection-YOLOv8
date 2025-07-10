@@ -1,5 +1,8 @@
 # 😷 Face Mask Detection using YOLOv8
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Amogh-7pai/Face-Mask-Detection-YOLOv8/blob/main/Mask_project.ipynb)
+
 This project uses **YOLOv8** for face mask detection, classifying faces into:
 - ✅ With Mask
 - ❌ Without Mask
